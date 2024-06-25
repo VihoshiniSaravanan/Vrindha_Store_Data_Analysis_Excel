@@ -1,10 +1,16 @@
 # Vrindha_Store_Data_Analysis_Excel
 Objective:Performed a comprehensive data analysis to uncover insights and trends for Vrinda Store, enhancing business decision-making and operational efficiency using Excel.
 Tools Used: Excel
+
 Actions Taken:
+
 Sales and Orders Analysis:
-Developed a Sales Performance Dashboard: Analyzed monthly sales data and order counts, integrating SQL and Excel data into Power BI.
-Key Metrics: Identified peak sales months (e.g., March with ₹1,928,066 and 2,819 orders) and tracked trends over time.
+
+Developed a Sales Performance Dashboard: 
+Analyzed monthly sales data and order counts, integrating SQL and Excel data into Power BI.
+
+Key Metrics: 
+Identified peak sales months (e.g., March with ₹1,928,066 and 2,819 orders) and tracked trends over time.
 Results: Reduced manual reporting time by 50% and improved the sales team's ability to target high-performing months, increasing overall sales efficiency by 20%.
 Gender-Based Sales Analysis:
 Created a Gender Comparison Dashboard: Visualized the sales split between men and women, highlighting key demographic insights.
