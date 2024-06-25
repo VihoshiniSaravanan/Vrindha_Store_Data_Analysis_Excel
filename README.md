@@ -1,5 +1,5 @@
 # Vrindha_Store_Data_Analysis_Excel
-Objective:  Performed a comprehensive data analysis to uncover insights and trends for Vrinda Store, enhancing business decision-making and operational efficiency using Excel.
+## Objective:  Performed a comprehensive data analysis to uncover insights and trends for Vrinda Store, enhancing business decision-making and operational efficiency using Excel.
 
 Tools Used: Excel
 
