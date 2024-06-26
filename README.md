@@ -27,6 +27,7 @@ Revealed that women accounted for 64% of total sales (₹13,562,773), while men 
 
 #### Results: 
 Enabled targeted marketing strategies that increased sales to women by 15%.
+![Vrindha Store Sales Analysis](https://github.com/VihoshiniSaravanan/Vrindha_Store_Data_Analysis_Excel/assets/173756615/34fcb954-debd-4456-9b2d-0f8ef5498522)
 
 
 
