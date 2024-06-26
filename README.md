@@ -28,6 +28,8 @@ Revealed that women accounted for 64% of total sales (₹13,562,773), while men 
 #### Results: 
 Enabled targeted marketing strategies that increased sales to women by 15%.
 
+
+
 #### Order Status Monitoring:
 
 #### Built an Order Status Dashboard:
